@@ -1,2 +1,2 @@
 # SequoiaDbCDC
-SequoiaDbCDC 工具
+SequoiaDB CDC 工具
